@@ -83,7 +83,7 @@ const Cadastro = () => {
             checked={cor === 'lightgray'}
             onChange={handleCorChange}
           />
-          Ciano
+          Cinza Claro
         </label>
         <label>
           <input
